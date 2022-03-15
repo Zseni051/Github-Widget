@@ -55,9 +55,15 @@ Changes:
 </details>
 
 ## Example Result:
- [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
+**Example Usage:**
+- https://zseni051.github.io/Github-Widget/Example/
+
+**ImagePreview:**
+<br>[![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
+
  
  ## To Do List:
  - [ ] Add a Scroll bar
+ - [ ] Option to remove the pfp section
  
  
