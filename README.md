@@ -41,7 +41,7 @@ Copy paste this code in your HTML
 ```
 
 ## Example:
- [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/-Github-Widget/main/Example1.png)](https://github.com/Zseni051)
+ [![Zseni051 Example](https://raw.githubusercontent.com/Zseni051/Github-Widget/main/Example1.png)](https://github.com/Zseni051)
  
  ## To Do List:
  - [ ] Find out if this is the proper method of doing things
