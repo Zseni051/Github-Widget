@@ -49,7 +49,7 @@ Changes:
   ```
   Options:
   - `username=:username` replace `:username` with your GitHub username
-  - `toprepos=:number` replace `:number` with number of repos you want to list | ***10 is max, Default is 3 if left blank***
+  - `toprepos=:number` replace `:number` with number of repos you want to list
   - `style=:styles` replace `:styles` with your own styles
   - `css=:csslink` replace `:csslink` with an external css link | ***Must be the last paramater***
 </details>
