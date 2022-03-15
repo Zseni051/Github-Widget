@@ -1,0 +1,80 @@
+body {
+    background-color: #000000;
+}
+
+/* Scroll bar */
+::-webkit-scrollbar-track {
+    background-color: #22262d;
+    border-radius: 10px;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #9b9b9b;
+    border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #8b8b8b;
+}
+
+
+.dark_container {
+    width: 600px; 
+    height: 830px; 
+    margin: 20px auto auto;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    border-color: #2b2b2b;
+    color: #fff;
+    background-color: rgba(36,37,42,0.5);
+    text-align:justify; 
+    padding:0.5rem
+}
+
+
+.contact_card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    vertical-align: middle;
+    width: 350px;
+    height: 750px;
+    margin-top: 20px;
+    color: #000000;
+    background-color: #ACACAC;
+    border-radius: 0.25rem;
+}
+.contact_card2 {
+    margin-left: 30px;
+}
+font.contact_logo {
+    font-size: 40px; 
+    color:#212529; 
+    margin-top: 42px;
+}
+h4.contact_title {
+    font-size:0.8rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    margin-top: -5px;
+    text-transform: uppercase;
+    letter-spacing: 0.15rem;
+}
+hr.contact_hr {
+    width: 50px;
+    border: 2px solid #212529;
+    color: #212529;
+    background-color: #212529;
+}
+@media only screen and (max-width: 760px) {
+	.contact_card2 {
+		margin-left: initial;
+	}
+}
+@media only screen and (min-width: 760px) {
+	.contact_card2 {
+		margin-left: 30px;
+	}
+}
