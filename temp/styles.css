@@ -117,7 +117,7 @@
 	color: #F0F6FC;
 }
 
-.gh-widget-hr {
+hr.gh-widget-hr {
 	border: 0;
 	border-bottom: 1px solid #30363D;
 	margin: 0;
